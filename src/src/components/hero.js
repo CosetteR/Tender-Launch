@@ -25,14 +25,14 @@ export default function CallToActionWithAnnotation() {
           fontWeight={600}
           fontSize={{ base: '2xl', sm: '4xl', md: '6xl' }}
           lineHeight={'110%'}>
-          Learning to cook <br />
+          Create your own cookbook(s) <br />
           <Text as={'span'} color={'orange.100'}>
-            made easy
+            no matter your skill level
           </Text>
         </Heading>
         <Text color={'gray.500'}>
           Never waste time searching for the right recipe. Never lose it in bookmarks too.
-          Start with 10+ beginner-friendly recipes and discover more from our community to expand your recipe collection as you improve.
+          Add your own or choose among 50+ beginner-friendly recipes from our community to create digital cookbook(s).
         </Text>
         <Stack
           direction={'column'}
