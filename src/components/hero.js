@@ -25,9 +25,9 @@ export default function CallToActionWithAnnotation() {
           fontWeight={600}
           fontSize={{ base: '2xl', sm: '4xl', md: '6xl' }}
           lineHeight={'110%'}>
-          Create your own cookbook(s) <br />
+          Create your own cookbook <br />
           <Text as={'span'} color={'orange.100'}>
-            no matter your skill level
+            at any skill level
           </Text>
         </Heading>
         <Text color={'gray.500'}>
