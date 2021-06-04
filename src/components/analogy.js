@@ -55,8 +55,9 @@ const Analogy = () => {
             <Heading color={'white'}>Cookbooks ≠ Chefs Only</Heading>
             <Text color={'white'} >
               Most traditional cookbooks are created by experienced chefs. They are informational, but not personal.
-              People continue to create or follow their loved ones' recipes because the process of cooking is very personal.
-              <Text as={'span'} color={'orange.100'} fontWeight={'bold'} > Anyone should be able to create their personal cookbooks –– and do so easily. </Text>
+              People continue to follow their loved ones' recipes because those dishes elicit unique and personal memories.
+              Instead of standardized formulas, we want to enable people to create their own cookbooks, by
+              <Text as={'span'} color={'orange.100'} fontWeight={'bold'} > creating, following, and sharing their recipes with their friends and family –– all with incredible ease. </Text> 
               With this belief, Tender was born.
             </Text>
             <Stack
