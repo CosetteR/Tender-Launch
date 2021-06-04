@@ -50,13 +50,14 @@ const Analogy = () => {
               p={2}
               alignSelf={'flex-start'}
               rounded={'md'}>
-              A New Way
+              Transforming Cooking
             </Text>
-            <Heading color={'white'}>Learn More Efficiently</Heading>
+            <Heading color={'white'}>Cookbooks ≠ Chefs Only</Heading>
             <Text color={'white'} >
-              Traditional cook books are like textbooks, informational but inefficient.
-              <Text as={'span'} color={'orange.100'} fontWeight={'bold'} > Recording, organizing, and practicing key information </Text> through tools such as flashcards is a much more efficient way to learn.
-              Tender wants to transform cooking to follow this better way.
+              Most traditional cookbooks are created by experienced chefs. They are informational, but not personal.
+              People continue to create or follow their loved ones' recipes because the process of cooking is very personal.
+              <Text as={'span'} color={'orange.100'} fontWeight={'bold'} > Anyone should be able to create their personal cookbooks –– and do so easily. </Text>
+              With this belief, Tender was born.
             </Text>
             <Stack
               spacing={4}
